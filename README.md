@@ -1,4 +1,4 @@
-# Sistema de Consulta – Consulte
+# Sistema de Consulta – Consult
 
 ![Logo do Sistema]({{file:file-1dEnr8iLDjGALfEkbM6JkP}})
 
